@@ -11,16 +11,20 @@ Traffic signs are important as they help the drivers to follow traffic rules and
 - Establishing a reliable Traffic Sign detection mechanism is a major step in our journey towards building semi-autonomous/autonomous driving systems.
 
 # Dataset
-- The traffic sign dataset that we will be working on is GTSRB — German Traffic Signs. 
+- The traffic sign dataset that we will be working on is GTSRB — German Traffic Signs.  
 
-- There are 43 different labels or classes of images. The shape of the data is (30,30). 
-
-- The dataset is pre-processed, shuffled and augmented using ***Tensorflow*** and ***Keras***.
+- The dataset is pre-processed, shuffled and augmented using ***Tensorflow*** and ***Keras***. The shape of the data is (30,30).
 
 - The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign). 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/prathamsingh7/Breast-cancer-classification/blob/main/Images/Dataset.png">
+  <img width="500" height="300" src="https://raw.githubusercontent.com/prathamsingh7/Traffic-Signs-detection-using-CNN/main/images/sample_data.png">
+</p>
+
+- There are 43 different labels or classes of images.
+
+<p align="center">
+  <img width="900" height="300" src="https://raw.githubusercontent.com/prathamsingh7/Traffic-Signs-detection-using-CNN/main/images/dataviz.png">
 </p>
 
 # Techstack Used
@@ -38,16 +42,16 @@ Traffic signs are important as they help the drivers to follow traffic rules and
 # Model visualization
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/prathamsingh7/Breast-cancer-classification/blob/main/Images/Dataset.png">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/prathamsingh7/Traffic-Signs-detection-using-CNN/main/images/model.png">
 </p>
 
 
 # Final prediction
 
-<p align="left">
-  <img width="460" height="300" src="https://github.com/prathamsingh7/Breast-cancer-classification/blob/main/Images/Dataset.png">
+<p align="center">
+  <img width="900" height="500" src="https://raw.githubusercontent.com/prathamsingh7/Traffic-Signs-detection-using-CNN/main/images/pred1.png">
 </p>
 
-<p align="right">
-  <img width="460" height="300" src="https://github.com/prathamsingh7/Breast-cancer-classification/blob/main/Images/Dataset.png">
+<p align="center">
+  <img width="460" height="460" src="https://raw.githubusercontent.com/prathamsingh7/Traffic-Signs-detection-using-CNN/main/images/pred2.png">
 </p>
