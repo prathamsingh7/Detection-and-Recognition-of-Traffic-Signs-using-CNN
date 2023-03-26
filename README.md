@@ -1,6 +1,6 @@
 # Problem statement
 <p align="center">
-  <img width="460" height="300" src="https://github.com/prathamsingh7/Breast-cancer-classification/blob/main/Images/breast-cancer-facts.jpg">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/prathamsingh7/Traffic-Signs-detection-using-CNN/main/images/intro.jpg">
 </p>
 
 Traffic signs are important as they help the drivers to follow traffic rules and reduce the number of accidents on road. However, it is often very difficult for a driver to focus on the signs along with the other happenings on the road. In addition to this, traffic sign detection is also very important for the fast growing technology of automated driving and driverless cars. 
